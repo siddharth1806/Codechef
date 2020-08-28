@@ -4,7 +4,7 @@ import java.io.*;
 import java.math.BigInteger;
 class codechef 
 {
-     public static void main (String[] args) throws java.lang.Exception
+    public static void main (String[] args) throws java.lang.Exception
     {   
 
         Scanner sc=new Scanner(System.in);
