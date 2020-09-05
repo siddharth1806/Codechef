@@ -27,7 +27,7 @@ class Codechef
 	            n1--;
 	            }
 		      if(n==15)
-	          {
+	          	{
 	              if(n2>0)
 		            {
 		                n2--;
