@@ -25,7 +25,8 @@ class Codechef
 		        {
 		           c++;
 		            for (int k = 0; k < i; k++) 
-                       { for (int j = k + 1; j < i; j++)  
+                       {
+		       for (int j = k + 1; j < i; j++)  
                         { 
             
                             temp=matrix[k][j]; 
