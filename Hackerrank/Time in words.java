@@ -29,7 +29,8 @@ public class Solution {
         else if (m == 1){
             System.out.print("one minute past " + numbers[h-1]);
         }
-        else if (m < 30){
+        else if (m < 30)
+        {
             System.out.print(numbers[m-1] + " minutes past " + numbers[h-1]);
         }
         else if (m > 30){
