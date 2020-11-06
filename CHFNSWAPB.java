@@ -1,5 +1,4 @@
 import java.io.*;
-
 class CHFNSWAPB {
     static class Reader {
         final private int BUFFER_SIZE = 1 << 16;
