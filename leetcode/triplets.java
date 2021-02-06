@@ -3,6 +3,7 @@ class Solution {
         int count=0;
         if(arr.length<3)
         {
+            
             return 0;
         }
     for(int i=0;i<arr.length-2;i++)
